@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | Levinson Lab</title>
+    <link>/research/</link>
+      <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hub8d0915529c51e28e6d8d3a87c1bf785_72405_512x512_fill_lanczos_center_2.png</url>
+      <title>Researches</title>
+      <link>/research/</link>
+    </image>
+    
+    <item>
+      <title>Allostery in protein kinases</title>
+      <link>/research/kinase-allostery/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/research/kinase-allostery/</guid>
+      <description>&lt;p&gt;The protein kinases are signaling proteins of immense importance to human health, as they are key mediators of cell growth and division. Kinases have intricate regulatory mechanisms that ensure they are only catalytically active when appropriate, but oncogenic kinases typically have mutations that bypass this control, leading to constitutive kinase activity and cancer.&lt;/p&gt;
+&lt;p&gt;At first glance, kinases appear to have each evolved their own regulatory mechanisms, as the kinase domain is controlled by a diverse set of regulatory domains and subunits in different family members. Nevertheless, the precise conformational changes that the kinase domain undergoes in response to these diverse cues are in fact strikingly conserved. This suggests that all kinase domains have intrinsic allosteric potential that was moulded through evolutionary divergence into a bewildering array of different forms. We are pinpointing where the conservation of allostery gives way to divergence. This question has important practical implications for the selectivity of future allosteric kinase inhibitors, which hold great promise as the cancer drugs of tomorrow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A spectroscopic toolkit for kinase allostery</title>
+      <link>/research/spectroscopy/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/research/spectroscopy/</guid>
+      <description>&lt;p&gt;A critical part of our work is the development of reliable spectroscopic assays for detecting conformational change in a wide range of kinases in solution. We are approaching this problem using a panoply of spectroscopic methods including vibrational spectroscopy, fluorescence, and NMR. Probes are incorporated by chemical modification of the protein or introduced on the chemical scaffold of a kinase inhibitor. Such convenient and direct readouts of kinase conformation have been lacking to date, severely hampering efforts to understand kinase allostery, and their development provides the underlying framework for the research in the lab.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dissecting allosteric coupling pathways in kinases</title>
+      <link>/research/coupling/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/research/coupling/</guid>
+      <description>&lt;p&gt;X-ray structures hint at how regulatory interactions coax the kinase domain into adopting a particular conformation. What is not clear from such structures is the nature of the allosteric coupling pathways, in other words which elements of the interactions are critical for transmitting the allosteric “signal”. Determining these pathways in multiple kinases will shed light on how the allosteric mechanisms are related in evolutionary terms, and would provide obvious targets for the design of allosteric inhibitors. We plan to delineate these pathways using mutagenesis screens to alter allosteric communication, and spectroscopic methods to readout the effects on kinase conformation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discovering allosteric kinase inhibitors</title>
+      <link>/research/inhibitors/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/research/inhibitors/</guid>
+      <description>&lt;p&gt;Protein kinases are the most important class of drug targets in oncology, and dozens of kinase inhibitors are currently in clinical use. Most of these inhibitors target the highly conserved ATP-binding site, cannot distinguish between different kinase conformations, and suffer from poor selectivity among kinases. Allosteric inhibitors, which block activity by modulating kinase conformation, have proven hard to identify with conventional high-throughput screening approaches. We believe that our spectroscopic conformational assays hold the key for discovering allosteric inhibitors of medically important kinases, which should be much more selective than conventional kinase inhibitors. Our work on allosteric coupling pathways will help us design inhibitors that actually mimic the allosteric control imposed by kinase regulatory domains, essentially restoring oncogenic kinases to their correctly regulated states.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

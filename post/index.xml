@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Levinson Lab</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hub8d0915529c51e28e6d8d3a87c1bf785_72405_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Zach Baker joins the Levinson Lab</title>
+      <link>/post/2020-02-01-zach-joins/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-02-01-zach-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damien Rasmussen joins the Levinson Lab</title>
+      <link>/post/2018-03-01-damien-joins/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-03-01-damien-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily&#39;s paper is published in eLife</title>
+      <link>/post/2018-03-01-elife-paper/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-03-01-elife-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric&#39;s paper is published in PNAS</title>
+      <link>/post/2018-12-01-pnas-paper/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-12-01-pnas-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiffany Engel joins the Levinson Lab</title>
+      <link>/post/2017-10-01-tiffany-joins/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-10-01-tiffany-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily lands a faculty position at Winona State University</title>
+      <link>/post/2017-08-01-emily-job/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-08-01-emily-job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soreen lands a position at ProtaTek</title>
+      <link>/post/2017-06-01-soreen-job/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-06-01-soreen-job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Burban joins the Levinson Lab</title>
+      <link>/post/2017-03-01-david-joins/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-03-01-david-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Lake joins the Levinson Lab</title>
+      <link>/post/2017-03-01-eric-joins/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-03-01-eric-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The lab&#39;s first paper is published in Nature Chemical Biology</title>
+      <link>/post/2017-02-06-lab-paper/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-02-06-lab-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

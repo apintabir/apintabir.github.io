@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John D Chodera | Levinson Lab</title>
+    <link>/authors/john-d-chodera/</link>
+      <atom:link href="/authors/john-d-chodera/index.xml" rel="self" type="application/rss+xml" />
+    <description>John D Chodera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hub8d0915529c51e28e6d8d3a87c1bf785_72405_512x512_fill_lanczos_center_2.png</url>
+      <title>John D Chodera</title>
+      <link>/authors/john-d-chodera/</link>
+    </image>
+    
+    <item>
+      <title>A dynamic mechanism for allosteric activation of Aurora kinase A by activation loop phosphorylation</title>
+      <link>/publication/ruff-2018/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ruff-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A water-mediated allosteric network governs activation of Aurora kinase A</title>
+      <link>/publication/cyphers-2017/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cyphers-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

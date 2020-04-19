@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Levinson Lab</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Levinson Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hub8d0915529c51e28e6d8d3a87c1bf785_72405_512x512_fill_lanczos_center_2.png</url>
+      <title>Levinson Lab</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Zach Baker joins the Levinson Lab</title>
+      <link>/post/2020-02-01-zach-joins/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-02-01-zach-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative conformational profiling of kinase inhibitors reveals origins of selectivity for Aurora kinase activation states</title>
+      <link>/publication/lake-2018/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lake-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damien Rasmussen joins the Levinson Lab</title>
+      <link>/post/2018-03-01-damien-joins/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-03-01-damien-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily&#39;s paper is published in eLife</title>
+      <link>/post/2018-03-01-elife-paper/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-03-01-elife-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric&#39;s paper is published in PNAS</title>
+      <link>/post/2018-12-01-pnas-paper/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-12-01-pnas-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dynamic mechanism for allosteric activation of Aurora kinase A by activation loop phosphorylation</title>
+      <link>/publication/ruff-2018/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ruff-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allostery in protein kinases</title>
+      <link>/research/kinase-allostery/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/research/kinase-allostery/</guid>
+      <description>&lt;p&gt;The protein kinases are signaling proteins of immense importance to human health, as they are key mediators of cell growth and division. Kinases have intricate regulatory mechanisms that ensure they are only catalytically active when appropriate, but oncogenic kinases typically have mutations that bypass this control, leading to constitutive kinase activity and cancer.&lt;/p&gt;
+&lt;p&gt;At first glance, kinases appear to have each evolved their own regulatory mechanisms, as the kinase domain is controlled by a diverse set of regulatory domains and subunits in different family members. Nevertheless, the precise conformational changes that the kinase domain undergoes in response to these diverse cues are in fact strikingly conserved. This suggests that all kinase domains have intrinsic allosteric potential that was moulded through evolutionary divergence into a bewildering array of different forms. We are pinpointing where the conservation of allostery gives way to divergence. This question has important practical implications for the selectivity of future allosteric kinase inhibitors, which hold great promise as the cancer drugs of tomorrow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A spectroscopic toolkit for kinase allostery</title>
+      <link>/research/spectroscopy/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/research/spectroscopy/</guid>
+      <description>&lt;p&gt;A critical part of our work is the development of reliable spectroscopic assays for detecting conformational change in a wide range of kinases in solution. We are approaching this problem using a panoply of spectroscopic methods including vibrational spectroscopy, fluorescence, and NMR. Probes are incorporated by chemical modification of the protein or introduced on the chemical scaffold of a kinase inhibitor. Such convenient and direct readouts of kinase conformation have been lacking to date, severely hampering efforts to understand kinase allostery, and their development provides the underlying framework for the research in the lab.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dissecting allosteric coupling pathways in kinases</title>
+      <link>/research/coupling/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/research/coupling/</guid>
+      <description>&lt;p&gt;X-ray structures hint at how regulatory interactions coax the kinase domain into adopting a particular conformation. What is not clear from such structures is the nature of the allosteric coupling pathways, in other words which elements of the interactions are critical for transmitting the allosteric “signal”. Determining these pathways in multiple kinases will shed light on how the allosteric mechanisms are related in evolutionary terms, and would provide obvious targets for the design of allosteric inhibitors. We plan to delineate these pathways using mutagenesis screens to alter allosteric communication, and spectroscopic methods to readout the effects on kinase conformation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discovering allosteric kinase inhibitors</title>
+      <link>/research/inhibitors/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/research/inhibitors/</guid>
+      <description>&lt;p&gt;Protein kinases are the most important class of drug targets in oncology, and dozens of kinase inhibitors are currently in clinical use. Most of these inhibitors target the highly conserved ATP-binding site, cannot distinguish between different kinase conformations, and suffer from poor selectivity among kinases. Allosteric inhibitors, which block activity by modulating kinase conformation, have proven hard to identify with conventional high-throughput screening approaches. We believe that our spectroscopic conformational assays hold the key for discovering allosteric inhibitors of medically important kinases, which should be much more selective than conventional kinase inhibitors. Our work on allosteric coupling pathways will help us design inhibitors that actually mimic the allosteric control imposed by kinase regulatory domains, essentially restoring oncogenic kinases to their correctly regulated states.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tiffany Engel joins the Levinson Lab</title>
+      <link>/post/2017-10-01-tiffany-joins/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-10-01-tiffany-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily lands a faculty position at Winona State University</title>
+      <link>/post/2017-08-01-emily-job/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-08-01-emily-job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soreen lands a position at ProtaTek</title>
+      <link>/post/2017-06-01-soreen-job/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-06-01-soreen-job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Burban joins the Levinson Lab</title>
+      <link>/post/2017-03-01-david-joins/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-03-01-david-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Lake joins the Levinson Lab</title>
+      <link>/post/2017-03-01-eric-joins/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-03-01-eric-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A water-mediated allosteric network governs activation of Aurora kinase A</title>
+      <link>/publication/cyphers-2017/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cyphers-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The lab&#39;s first paper is published in Nature Chemical Biology</title>
+      <link>/post/2017-02-06-lab-paper/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-02-06-lab-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Levinson Lab</title>
+    <link>/authors/abir/</link>
+      <atom:link href="/authors/abir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Levinson Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/authors/abir/avatar_hue8b65413d3b5af86076512b9114c6c31_140681_270x270_fill_lanczos_center_2.png</url>
+      <title>Levinson Lab</title>
+      <link>/authors/abir/</link>
+    </image>
+    
+  </channel>
+</rss>
